@@ -26,7 +26,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vinay6636&&show_icons=true&theme=algolia&hide_border=true" alt=" VINAY M GitHub Stats">
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY6636&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="VINAY M GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay6636&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="VINAY M GitHub Stats">
 
   <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay6636&&show_icons=true&&theme=algolia&hide_border=true" alt="*VINAY M** GitHub Stats"> 
