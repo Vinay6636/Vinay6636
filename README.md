@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **CSS.**
+ - 🌱 I’m currently pursuing BTECH in  **CSE(AI&ML)** 
 
-- 💬 Ask me about **HTML,JAVA.**
+<!-- - 💬 Ask me about **HTML,JAVA.** -->
 
 - 📫 How to reach me **vinay3612336@gmail.com**
 
