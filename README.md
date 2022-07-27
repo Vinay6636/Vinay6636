@@ -4,7 +4,7 @@
 
 
 
- - 🌱 I’m currently pursuing BTECH in  **CSE(AI&ML)** 
+ - 🌱 I’m currently pursuing BTECH in  **CSE(AI&ML).** 
 
 <!-- - 💬 Ask me about **HTML,JAVA.** -->
 
