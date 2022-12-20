@@ -8,7 +8,7 @@
 
 <!-- - 💬 Ask me about **HTML,JAVA.** -->
 
-- 📫 How to reach me **vinay3612336@gmail.com**
+- 📫 How to reach me **vinaymattaparthi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
