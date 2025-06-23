@@ -9,7 +9,7 @@
 
 <!-- - 💬 Ask me about **HTML,JAVA.** -->
 
-<p align="center"> 📫 Reach me at : <strong> vinaymattaparthi22@gmail.com </strong> </p>
+<p align="center"> 📫 Reach me at : <strong> mattaparthivinay22@gmail.com </strong> </p>
  <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
